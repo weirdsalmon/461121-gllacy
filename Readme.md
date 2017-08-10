@@ -1,7 +1,6 @@
 # Личный проект «Глейси»
 
 * Студент: [Татьяна Орлова](https://up.htmlacademy.ru/htmlcss/18/user/461121).
-<<<<<<< HEAD
 * Наставник: [Ксения Торкова](https://up.htmlacademy.ru/htmlcss/18/user/23249).
 
 ---
